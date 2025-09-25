@@ -7,7 +7,7 @@ Cálculo de velocidade média
 Conversão de temperatura entre Celsius e Fahrenheit
 ### Exemplo de uso
 
----
+```
 Funcionalidades
 1. Cálculo de Velocidade Média
 Calcula a velocidade média com base na distância percorrida e no tempo gasto
@@ -15,7 +15,7 @@ Calcula a velocidade média com base na distância percorrida e no tempo gasto
 Suporta diferentes unidades de medida (km/h, m/s, etc.)
 
 Trata casos onde o tempo é zero para evitar divisão por zero
----
+```
 
 ---
 2. Conversão de Temperatura
@@ -95,6 +95,7 @@ O programa trata entradas inválidas e exibe mensagens de erro apropriadas
 O loop do menu continua até que o usuário escolha a opção de sair (3)
 
 As funções são tipadas para melhor legibilidade do código
+
 
 
 
