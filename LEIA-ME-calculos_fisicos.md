@@ -17,13 +17,14 @@ Suporta diferentes unidades de medida (km/h, m/s, etc.)
 Trata casos onde o tempo é zero para evitar divisão por zero
 ```
 
----
+```
 2. Conversão de Temperatura
 Converte temperaturas entre Celsius e Fahrenheit
 
 Fórmula de Celsius para Fahrenheit: °F = (°C × 1.8) + 32
 
 Fórmula de Fahrenheit para Celsius: °C = (°F - 32) / 1.8
+```
 
 Como Usar
 Execução do Programa
@@ -33,7 +34,7 @@ Fluxo do Programa
 O programa exibe um menu com 3 opções
 
 Digite o número correspondente à opção desejada:
-
+```
 1: Calcular velocidade média
 
 2: Converter temperatura
@@ -85,7 +86,7 @@ Exibe as opções disponíveis para o usuário
 aluno_de_fisica()
 
 Função principal que controla o fluxo do programa
----
+```
 Requisitos
 Python 3.x
 
@@ -95,6 +96,7 @@ O programa trata entradas inválidas e exibe mensagens de erro apropriadas
 O loop do menu continua até que o usuário escolha a opção de sair (3)
 
 As funções são tipadas para melhor legibilidade do código
+
 
 
 
