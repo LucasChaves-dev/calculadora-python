@@ -32,9 +32,9 @@ bash
 python nome_do_arquivo.py
 Fluxo do Programa
 O programa exibe um menu com 3 opções
-
-Digite o número correspondente à opção desejada:
 ```
+Digite o número correspondente à opção desejada:
+
 1: Calcular velocidade média
 
 2: Converter temperatura
@@ -96,6 +96,7 @@ O programa trata entradas inválidas e exibe mensagens de erro apropriadas
 O loop do menu continua até que o usuário escolha a opção de sair (3)
 
 As funções são tipadas para melhor legibilidade do código
+
 
 
 
