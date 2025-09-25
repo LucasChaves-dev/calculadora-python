@@ -16,7 +16,7 @@ Suporta diferentes unidades de medida (km/h, m/s, etc.)
 
 Trata casos onde o tempo é zero para evitar divisão por zero
 ---
-### Exemplo de uso
+
 ---
 2. Conversão de Temperatura
 Converte temperaturas entre Celsius e Fahrenheit
@@ -95,6 +95,7 @@ O programa trata entradas inválidas e exibe mensagens de erro apropriadas
 O loop do menu continua até que o usuário escolha a opção de sair (3)
 
 As funções são tipadas para melhor legibilidade do código
+
 
 
 
